@@ -1,11 +1,11 @@
 <h1 align="start">Hi 👋, I'm Ilham Suleymanov!</h1>
 <h3 align="start">I'm a Flutter Mobile Application Specialist with hands-on experience in designing and developing dynamic, user-friendly mobile apps for both iOS and Android platforms. While my focus is primarily on mobile development, I've also explored the capabilities of Flutter for web & desktop applications.</h3>
 
-- 🔭 I’m currently working on **Eathanos**
+- 🔭 I’m currently working at **PRODATA LLC**
 
-- 🌱 I’m currently learning **Advanced Mobile Development Architecture**
+- 🌱 I’m currently learning **Advanced Mobile Development Architecture && Native iOS Development**
 
-- 💬 Ask me about **Flutter, Dart & Clean Architecture**
+- 💬 Ask me about **Flutter, Dart & Mobile Architectures**
 
 - 📫 How to reach me **ilhamskh.dev@gmail.com**
 
